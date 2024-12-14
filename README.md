@@ -1,8 +1,10 @@
 # IST_LP-unit-tests-2024
-Logic for Programming - Unit tests for the project
+Logic for Programming - Unit tests for the project <br/>
 
 ### Brief
-Unit tests provided in the project statement, but now in code. <br/>
+Unit tests provided in the project statement, <br />
+now in easily-modifiable code.
+
 Still in development, so:
 - There may be mistakes       (feel free to report them).
 - Further updates are coming.
